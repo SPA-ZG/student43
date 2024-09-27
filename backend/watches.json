@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Rolex Submariner",
+    "year": 2021,
+    "brand": "Rolex",
+    "reference_number": "126610LN",
+    "price": 9500,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://cdn2.chrono24.com/images/uhren/31522605-j00sbhw9ikrdl1chzjl8qfc0-Large.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Omega Speedmaster Professional",
+    "year": 1969,
+    "brand": "Omega",
+    "reference_number": "311.30.42.30.01.005",
+    "price": 4500,
+    "sex": "Men",
+    "automatic": false,
+    "image": "https://cdn2.chrono24.com/images/uhren/31336353-ue12f8q40hf44qmsegz8gi2n-Large.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Tag Heuer Carrera",
+    "year": 2020,
+    "brand": "Tag Heuer",
+    "reference_number": "CAR2A10.FC6235",
+    "price": 3500,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://cdn2.chrono24.com/images/uhren/32476067-r41m3swshrdr64mz3ir3n365-ExtraLarge.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Seiko 5 Sports",
+    "year": 2019,
+    "brand": "Seiko",
+    "reference_number": "SRPD55K3",
+    "price": 250,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://cdn2.chrono24.com/images/uhren/31278416-942ao301kx4jhh6n84aluvc1-ExtraLarge.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Casio G-Shock",
+    "year": 1983,
+    "brand": "Casio",
+    "reference_number": "DW-5600E-1V",
+    "price": 50,
+    "sex": "Unisex",
+    "automatic": false,
+    "image": "https://www.irisimo.hr/files/product/73/Panske_hodinky_CASIO_G-SHOCK_DW_5600E-1_s_budikom_a_podsvietenim_l.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Patek Philippe Nautilus",
+    "year": 2022,
+    "brand": "Patek Philippe",
+    "reference_number": "5711/1A-010",
+    "price": 30000,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://www.patekphilippe.to/wp-content/uploads/2022/01/5711-1A-black-1-1.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Citizen Eco-Drive",
+    "year": 2018,
+    "brand": "Citizen",
+    "reference_number": "BM8180-03E",
+    "price": 200,
+    "sex": "Men",
+    "automatic": false,
+    "image": "https://files.jewelfeed.com/jewelfeed/catalog/items/94a71aa4-558c-47e9-9343-515a9b6417c2.jpeg.800x800_q85_background.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Fossil Gen 5",
+    "year": 2020,
+    "brand": "Fossil",
+    "reference_number": "FTW4024",
+    "price": 300,
+    "sex": "Unisex",
+    "automatic": false,
+    "image": "https://yekupi.blob.core.windows.net/ekupihr/1200Wx1200H/EK000281033_1.image",
+    "isAvailable": true
+  },
+  {
+    "name": "Panerai Luminor",
+    "year": 1993,
+    "brand": "Panerai",
+    "reference_number": "PAM00112",
+    "price": 8000,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://cdn2.chrono24.com/images/uhren/31620272-xt0lzlc5t0bykl656xin39qp-Large.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Swatch Sistem51",
+    "year": 2013,
+    "brand": "Swatch",
+    "reference_number": "SUTB403",
+    "price": 150,
+    "sex": "Unisex",
+    "automatic": true,
+    "image": "https://www.irisimo.hr/files/product/35721/SWATCH-SISTEM-NOTTE-SUTB403.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Longines Master Collection",
+    "year": 2021,
+    "brand": "Longines",
+    "reference_number": "L2.793.4.77.3",
+    "price": 2500,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://res.cloudinary.com/dp9dnliwc/image/upload/c_pad,h_900,w_900/f_auto/q_auto/wmmedia/watch_images/large/l27934773_1527087887.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Timex Weekender",
+    "year": 2014,
+    "brand": "Timex",
+    "reference_number": "T2N647",
+    "price": 40,
+    "sex": "Unisex",
+    "automatic": false,
+    "image": "https://www.irisimo.hr/files/product/17305/TIMEX_T2N647.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Bulova Precisionist",
+    "year": 2012,
+    "brand": "Bulova",
+    "reference_number": "98B229",
+    "price": 300,
+    "sex": "Men",
+    "automatic": false,
+    "image": "https://cdn2.chrono24.com/images/uhren/31057637-06v5qgjwtfcjxlvob2fchnk0-ExtraLarge.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Rado True Thinline",
+    "year": 2011,
+    "brand": "Rado",
+    "reference_number": "R27741182",
+    "price": 2000,
+    "sex": "Unisex",
+    "automatic": false,
+    "image": "https://www.rado.com/media/catalog/product/r/g/rgb_cat_true_thinline_420_0009_3_018_3.png",
+    "isAvailable": true
+  },
+  {
+    "name": "Hamilton Khaki Field",
+    "year": 2020,
+    "brand": "Hamilton",
+    "reference_number": "H70595733",
+    "price": 500,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://itsabouttime.ca/wp-content/uploads/2021/12/hamilton-h70595733.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Tissot Le Locle",
+    "year": 2017,
+    "brand": "Tissot",
+    "reference_number": "T41.1.423.33",
+    "price": 600,
+    "sex": "Men",
+    "automatic": true,
+    "image": "https://www.koku.hr/buxus/images/products/2568534_-vyr-12795t41-1-423-33.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Emporio Armani Connected",
+    "year": 2019,
+    "brand": "Emporio Armani",
+    "reference_number": "ART5005",
+    "price": 350,
+    "sex": "Men",
+    "automatic": false,
+    "image": "https://i.pinimg.com/564x/37/d2/91/37d29197e2befc6cbf8031745458b1d0.jpg",
+    "isAvailable": false
+  },
+  {
+    "name": "Citizen Promaster Diver",
+    "year": 2016,
+    "brand": "Citizen",
+    "reference_number": "BN0150-28E",
+    "price": 300,
+    "sex": "Men",
+    "automatic": false,
+    "image": "https://cdn2.jomashop.com/media/catalog/product/c/i/citizen-promaster-diver-200-meters-ecodrive-black-dial-mens-watch-bn015028e.jpg",
+    "isAvailable": true
+  },
+  {
+    "name": "Movado Museum Classic",
+    "year": 1990,
+    "brand": "Movado",
+    "reference_number": "0606502",
+    "price": 800,
+    "sex": "Unisex",
+    "automatic": false,
+    "image": "https://www.thewatchblog.co.uk/wp-content/uploads/2017/08/Movado-0606502-review.jpg",
+    "isAvailable": false
+  }
+]
